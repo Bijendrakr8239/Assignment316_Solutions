@@ -5,7 +5,9 @@ int main()
 
 {
 
-	int queue[20],n,head,i,j,k,seek=0,max,diff,temp,queue1[20],queue2[20],
+	int queue[20],n,head;
+	int i,j,k,seek=0,max,diff;
+	int temp,queue1[20],queue2[20],
 	
 	temp1=0,temp2=0;
 	
